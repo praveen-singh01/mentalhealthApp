@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "526234725451",
+    "project_id": "finalyear-eb9ab",
+    "storage_bucket": "finalyear-eb9ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:526234725451:android:0c3902fa919171b1e671ce",
+        "android_client_info": {
+          "package_name": "com.example.men_health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "526234725451-785v1mnm6qhrcstk3096gee1tdcmhj3h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoFXnXqqN6F6mEm6IlSp_HwIYnitRhPgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "526234725451-785v1mnm6qhrcstk3096gee1tdcmhj3h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
